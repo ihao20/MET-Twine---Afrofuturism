@@ -1,0 +1,16 @@
+:: StoryTitle
+MET Twine - Afrofuturism
+
+
+:: StoryData
+{
+  "ifid": "5FF7AAE0-23E2-4169-966C-A43375F2263C",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "START",
+  "zoom": 1
+}
+
+
+:: START {"position":"800,325","size":"100,100"}
+
